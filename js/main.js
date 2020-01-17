@@ -305,7 +305,7 @@
         // Mailchimp translation
         //
         //  Defaults:
-        //	 'submit': 'Submitting...',
+        //   'submit': 'Submitting...',
         //  0: 'We have sent you a confirmation email',
         //  1: 'Please enter a value',
         //  2: 'An email address must contain a single @',

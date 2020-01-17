@@ -4,7 +4,7 @@
 
 <?php include('about.php'); ?>
 
-<?php include('events.php'); ?>
+<?php //include('events.php'); ?>
 
 <?php include('gallery.php'); ?>
 

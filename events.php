@@ -107,9 +107,12 @@
             </div>
 
 
-
         </div> <!-- end services-list -->
 
+
+            <div class="buttonall" style="text-align: center;">
+                <a class="btn" href="calendar.php">View More events</a>
+            </div>
 
 
     </section> <!-- end s-services -->

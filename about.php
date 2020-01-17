@@ -12,7 +12,7 @@
 
                 <h3 class="subhead">About Beach Rugby Africa</h3>
 
-                <h1 class="display-1">We are a group of people passionate about sport and the strength in Rugby.</h1>
+                <h1 class="display-1">We are a group of people passionate about sport and the social influence of Rugby.</h1>
 
             </div>
 
@@ -25,11 +25,9 @@
             <div class="col-full">
 
                 <p class="lead">
+We are passionate about sport and the social influence of Rugby. Our love of Beach Rugby and Africa ensures we celebrate the great and glorious game on the golden sandy beaches of Africa.
 
-                We are a group of people passionate about sport and the strength in Rugby.
-
-                Our love of Beach Rugby and Africa ensures we celebrate the great and glorious game on the golden sandy beaches of Africa.
-
+We also focus on promoting Eco-tourism and our official tour team 'The BRALL Stars' represents our great continent at international Beach Rugby competitions.
                 </p>
 
             </div>
@@ -37,21 +35,20 @@
         </div> <!-- end about-desc -->
 
 
-
+<!-- 
         <div class="row" id="rules">
 
             <div class="row section-header" data-aos="fade-up">
 
             <div class="col-full">
 
-                <!-- <h3 class="subhead">Our Rules</h3> -->
-
                 <h1 class="display-1">RULES OF THE GAME</h1></div>
 
             </div>
 
-        </div> <!-- end section-header -->
-
+        </div>  -->
+        <!-- end section-header -->
+<!-- 
             <div class="about-process process block-1-2 block-tab-full">
 
 
@@ -162,11 +159,13 @@ Referee's decision is final!!
 
 
 
-            </div> <!-- end process -->
+            </div> -->
+             <!-- end process -->
 
 
 
-        </div> <!-- end about-stats -->
+        <!-- </div>  -->
+        <!-- end about-stats -->
 
 
 

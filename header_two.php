@@ -113,23 +113,24 @@
                 <!-- <h3>Beach Rugby Africa</h3> -->
 
                 
-           
 
                 <ul class="header-nav__list">
 
-                    <li class="current"><a class="smoothscroll"  href="#home" title="home">Home</a></li>
+                    <li class="current"><a class="smoothscroll"  href="#home" onclick="window.location = 'http://beachrugbyafrica.com/#home'" title="home">Home</a></li>
 
-                    <li><a class="smoothscroll"  href="#about" title="about">About Us</a></li>
+                    <li><a class="smoothscroll"  href="#about" onclick="window.location = 'http://beachrugbyafrica.com/#about'" title="about">About Us</a></li>
 
-                    <li><a class="smoothscroll"  href="#events" title="events" onclick="window.location ='http://beachrugbyafrica.com/calendar.php'">Calendar</a></li>
+                    <li><a class="smoothscroll"  href="#events" title="events" onclick="window.location = 'http://beachrugbyafrica.com/calendar.php'">Calendar</a></li>
 
                     <li><a class="smoothscroll"  href="travels.php" target = "_blank" onclick="window.location = 'http://beachrugbyafrica.com/travels.php'"title="works">Save the Elephants</a></li>
 
-                    <li><a class="smoothscroll"  href="#works" title="services">Gallery</a></li>
+                    <li><a class="smoothscroll"  href="#works" onclick="window.location = 'http://beachrugbyafrica.com/#works'" title="services">Gallery</a></li>
 
-                    <li><a class="smoothscroll"  href="#partners" title="Partners">Partners</a></li>
+             <!--        <li><a class="smoothscroll"  href="#rules" onclick="window.location = 'http://beachrugbyafrica.com/#rules'" title="works">Rules</a></li> -->
 
-                    <li><a class="smoothscroll"  href="#contact" title="contact">Contact</a></li>
+                    <li><a class="smoothscroll"  href="#partners" onclick="window.location = 'http://beachrugbyafrica.com/#partners'" title="Partners">Partners</a></li>
+
+                    <li><a class="smoothscroll"  href="#contact" onclick="window.location = 'http://beachrugbyafrica.com/calendar.php'" title="contact">Contact</a></li>
                 </ul>
 
                 

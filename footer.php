@@ -150,6 +150,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
     <script src="js/main.js"></script>
 
+    <script src="js/bscript.js"></script>
+
     <script type="text/javascript">
 
         $('.owl-carousel').owlCarousel({
